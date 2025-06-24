@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2773163`](https://github.com/stdlib-js/stdlib/commit/2773163cd9baa364dcfe3c070afcc00bf4e98c27) - **chore:** update initial value and clean-up _(by Philipp Burckhardt)_
 -   [`d9f8189`](https://github.com/stdlib-js/stdlib/commit/d9f8189f537a107f8247d2071bac26926ad60ca2) - **chore:** fix indentation _(by Philipp Burckhardt)_
 -   [`2c4e5d8`](https://github.com/stdlib-js/stdlib/commit/2c4e5d824e0c5dc8fd536bf79ff565cee100ce46) - **build:** disable additional lint rule in TS tests _(by Philipp Burckhardt)_
 -   [`aad48ea`](https://github.com/stdlib-js/stdlib/commit/aad48eab1f19217854f4ffbfaed2a8be664b0f47) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
